@@ -10,7 +10,8 @@ Excel上で完結する、確率的メロディ生成システムです。
 
 ## 生成事例
 * [チャンス・セッション その0 feat.初音ミク](https://youtu.be/qxdAitkyJqI) (現在は限定公開にしています)
-* [ニコニコ動画版](https://www.nicovideo.jp/watch/sm44692977) (開発者個人のアカウントで投稿しています)  
+  * [ニコニコ動画版](https://www.nicovideo.jp/watch/sm44692977) (開発者個人のアカウントで投稿しています)  
+
 その他、順次追加予定
 
 ## 動機等
@@ -23,3 +24,7 @@ Excel上で完結する、確率的メロディ生成システムです。
 
 ### 第144回SIGMUS(第音楽情報科学研究発表会) セッション用ポスター：
 <img width="3024" height="4494" alt="SIGMUS2025_山崎承太郎_ポスター" src="https://github.com/user-attachments/assets/16286f0c-5ee8-4625-b094-d616546ce3b9" />
+
+## 論文
+* [EC(エンタテイメントコンピューティング)2025](https://ipsj.ixsq.nii.ac.jp/records/2003653)
+* [第144回SIGMUS(第音楽情報科学研究発表会)](https://ipsj.ixsq.nii.ac.jp/records/2003750)
